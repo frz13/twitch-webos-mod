@@ -1,5 +1,10 @@
 {
-  "paging": { "page": 0, "count": 1, "maxPage": 0, "itemsTotal": 1 },
+  "paging": {
+    "page": 0,
+    "count": 1,
+    "maxPage": 0,
+    "itemsTotal": 1
+  },
   "packages": [
     {
       "id": "twitch.adamffdev.v1",
@@ -11,16 +16,18 @@
       "manifestUrl": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/manifests/twitch.adamffdev.v1.json",
       "manifest": {
         "id": "twitch.adamffdev.v1",
-        "version": "1.6.6",
+        "version": "1.6.7",
         "type": "web",
         "title": "Twitch AdFree (proxy build)",
         "appDescription": "Twitch for webOS: ad blocking, source-quality playlist via proxies, 7TV/BTTV/FFZ emotes via proxy, channel points, chat overlay.",
         "iconUri": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/icon.png",
         "sourceUrl": "https://github.com/frz13/twitch-webos-mod",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.adamffdev.v1_1.6.6_all.ipk",
-        "ipkHash": { "sha256": "ce341cfe8bb63c8284ea6cf0c201f0e4e661697848c74b24b9daf888251e8d58" },
-        "ipkSize": 345976
+        "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.7/twitch.adamffdev.v1_1.6.7_all.ipk",
+        "ipkHash": {
+          "sha256": "6796b5ad7dbed8de534ac49177bc8b20068d0dcee14849a0872be39b3afeb249"
+        },
+        "ipkSize": 347180
       }
     }
   ]
