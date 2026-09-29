@@ -23,7 +23,7 @@
         "iconUri": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/icon.png",
         "sourceUrl": "https://github.com/frz13/twitch-webos-mod",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.8/twitch.adamffdev.v1_1.6.8_all.ipk",
+        "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.adamffdev.v1_1.6.8_all.ipk",
         "ipkHash": {
           "sha256": "50af1bdfe3c6bf6784044ead6c9ab5cd0a4d623f874617e0f1914548e5c1d32c"
         },
