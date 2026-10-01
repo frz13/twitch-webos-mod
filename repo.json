@@ -16,18 +16,18 @@
       "manifestUrl": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/manifests/twitch.betterfrz.v3.json",
       "manifest": {
         "id": "twitch.betterfrz.v3",
-        "version": "1.9.6",
+        "version": "1.9.7",
         "type": "web",
         "title": "BetterTwitch",
         "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, channel points and chat overlay.",
         "iconUri": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/icon.png",
         "sourceUrl": "https://github.com/frz13/twitch-webos-mod",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.betterfrz.v3_1.9.6_all.ipk",
+        "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.betterfrz.v3_1.9.7_all.ipk",
         "ipkHash": {
-          "sha256": "e436a6d7983a5f06b0c4a3bcdfd094487cbb27e5aaec0a9c9e36f4330d81eeaf"
+          "sha256": "17f4edec67ec9eb2d24c71eecbc59d3b77c9f8505a58d65ece686436a9b41d52"
         },
-        "ipkSize": 118270
+        "ipkSize": 118476
       }
     }
   ]
