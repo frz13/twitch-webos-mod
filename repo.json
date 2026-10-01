@@ -1,34 +1,15 @@
 {
-  "paging": {
-    "page": 0,
-    "count": 1,
-    "maxPage": 0,
-    "itemsTotal": 1
+  "id": "twitch.adamffdev.v1",
+  "version": "1.9.2",
+  "type": "web",
+  "title": "BetterTwitch",
+  "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, channel points and chat overlay.",
+  "iconUri": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/icon.png",
+  "sourceUrl": "https://github.com/frz13/twitch-webos-mod",
+  "rootRequired": false,
+  "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.adamffdev.v1_1.9.2_all.ipk",
+  "ipkHash": {
+    "sha256": "4e466efaf61c14db5b9330631b4b1e27b7ef22044d2c4812650cb84cb0b1e0b8"
   },
-  "packages": [
-    {
-      "id": "twitch.adamffdev.v1",
-      "title": "BetterTwitch",
-      "iconUri": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/icon.png",
-      "shortDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, channel points and chat overlay.",
-      "category": "multimedia",
-      "pool": "main",
-      "manifestUrl": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/manifests/twitch.adamffdev.v1.json",
-      "manifest": {
-        "id": "twitch.adamffdev.v1",
-        "version": "1.9.1",
-        "type": "web",
-        "title": "BetterTwitch",
-        "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, channel points and chat overlay.",
-        "iconUri": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/icon.png",
-        "sourceUrl": "https://github.com/frz13/twitch-webos-mod",
-        "rootRequired": false,
-        "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.adamffdev.v1_1.9.1_all.ipk",
-        "ipkHash": {
-          "sha256": "b4064055f0735a905d5b5f1369dcebd5971daff8c4b19d7f9c2e6c70def14ef6"
-        },
-        "ipkSize": 113864
-      }
-    }
-  ]
+  "ipkSize": 114458
 }
