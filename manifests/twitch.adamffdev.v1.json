@@ -9,7 +9,7 @@
   "rootRequired": false,
   "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.adamffdev.v1_1.9.5_all.ipk",
   "ipkHash": {
-    "sha256": "01d5f485ffac9f2f40538a07ebaa38f197e91d90762ffaaea083b323932e6f12"
+    "sha256": "823bce7100b9249a2ee19a0ed270ba7b4a278e77214ff4f3e11617e4b61d05d4"
   },
   "ipkSize": 118228
 }
