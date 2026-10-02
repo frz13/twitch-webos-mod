@@ -1,0 +1,71 @@
+# BetterTwitch for webOS
+
+A modified Twitch client for LG webOS TVs.
+
+The main goal of this project is to make Twitch more usable on webOS while keeping the app lightweight enough for older TVs.
+
+## Features
+
+* Ad blocking
+* HLS proxy by default
+* Up to 1440p when the stream provides it
+* Audio Only quality
+* 7TV emotes
+* BTTV emotes
+* FFZ emotes
+* Channel points
+* Chat overlay
+* Low latency mode
+* Disabled unnecessary animations
+* Various performance improvements for TVs with limited RAM
+
+## Quality
+
+The app uses a proxy for Twitch HLS playback instead of relying on the default stream request.
+
+Available quality depends on what Twitch and the proxy return for the current channel. If 1440p is available, it can be selected directly from the quality menu.
+
+`Audio Only` is also provided as an HLS playlist option.
+
+## Installation
+
+### Homebrew Channel
+
+Add the following repository to Homebrew Channel:
+
+```text
+tinyurl.com/twitchmod10
+```
+
+After adding the repository, install **BetterTwitch** and launch it normally.
+
+### Manual installation
+
+Download the latest `.ipk` from the Releases page and install it using your preferred webOS installation tool.
+
+
+
+The application package itself is published in GitHub Releases.
+
+## Compatibility
+
+The application is intended for LG webOS TVs.
+
+Actual playback quality and available features may vary depending on:
+
+* TV model and webOS version
+* Twitch stream
+* Available Twitch renditions
+* Network connection
+* Proxy availability
+
+Older TVs may also have limited RAM, so some parts of the application are intentionally kept as simple as possible.
+
+
+## Disclaimer
+
+This project is not affiliated with Twitch or LG.
+
+Twitch is a trademark of Twitch Interactive, Inc.
+LG and webOS are trademarks of LG Electronics.
+
