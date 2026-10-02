@@ -3,7 +3,7 @@
   "version": "1.10.1",
   "type": "web",
   "title": "BetterTwitch",
-  "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, First Message label, channel points and chat overlay.",
+  "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, channel points and chat overlay.",
   "iconUri": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/icon.png",
   "sourceUrl": "https://github.com/frz13/twitch-webos-mod",
   "rootRequired": false,
@@ -11,5 +11,5 @@
   "ipkHash": {
     "sha256": "e53a2878353d20c8dbddf78a6b3e1f9a774d6248b6f79cc8ec3b47cf9e09a904"
   },
-  "ipkSize": 120246
+  "ipkSize": 120360
 }
