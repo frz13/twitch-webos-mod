@@ -16,7 +16,7 @@
       "manifestUrl": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/manifests/twitch.betterfrz.v3.json",
       "manifest": {
         "id": "twitch.betterfrz.v3",
-        "version": "1.10.7",
+        "version": "1.10.8",
         "type": "web",
         "title": "BetterTwitch",
         "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, First Message and deleted-message marks, channel points and chat overlay.",
