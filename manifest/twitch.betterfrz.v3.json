@@ -1,6 +1,6 @@
 {
   "id": "twitch.betterfrz.v3",
-  "version": "1.11.1",
+  "version": "1.12.0",
   "type": "web",
   "title": "BetterTwitch",
   "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, First Message and deleted-message marks, channel points and chat overlay.",
@@ -9,7 +9,7 @@
   "rootRequired": false,
   "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.betterfrz.v3_1.11.1_all.ipk",
   "ipkHash": {
-    "sha256": "80028c140574a402afdc61f12e7b5cf48834021e64d854bf85e3e981a41049a1"
+    "sha256": "9ae0b75016d2549b424118bafe985c1d010754691ab6d8fd793dfdd42aa0bd26"
   },
   "ipkSize": 121594
 }
