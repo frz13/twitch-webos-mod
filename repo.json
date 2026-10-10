@@ -10,7 +10,7 @@
       "id": "twitch.betterfrz.v3",
       "title": "BetterTwitch",
       "iconUri": "https://raw.githubusercontent.com/frz13/twitch-proxy-webos/main/icon.png",
-      "manifestUrl": "https://github.com/frz13/twitch-proxy-webos/releases/download/v1.12.2/twitch.betterfrz.v3.manifest.json",
+      "manifestUrl": "https://github.com/frz13/twitch-proxy-webos/releases/download/v1.6.6/twitch.betterfrz.v3.manifest.json",
       "pool": "main",
       "shortDescription": "BetterTwitch for webOS"
     }
