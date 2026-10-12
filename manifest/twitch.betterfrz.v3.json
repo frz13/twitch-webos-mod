@@ -7,7 +7,7 @@
   "iconUri": "https://raw.githubusercontent.com/frz13/twitch-proxy-webos/main/icon.png",
   "sourceUrl": "https://github.com/frz13/twitch-proxy-webos",
   "rootRequired": false,
-  "ipkUrl": "https://github.com/frz13/twitch-proxy-webos/releases/download/v1.12.6/twitch.betterfrz.v3_1.12.6_all.ipk",
+  "ipkUrl": "https://github.com/frz13/twitch-proxy-webos/releases/download/v1.6.6/twitch.betterfrz.v3_1.12.6_all.ipk",
   "ipkHash": {
     "sha256": "22896b11ca0f3cfd9acd6308502ff24a94133697f4cee5a5b94e5fe2174a4d73"
   },
