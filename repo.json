@@ -10,24 +10,24 @@
       "id": "twitch.betterfrz.v3",
       "title": "BetterTwitch",
       "iconUri": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/icon.png",
-      "shortDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, Unicode emoji rendering, adaptive low latency (1.20x–1.50x), 20-second latency recovery, First Message and deleted-message marks, channel points and chat overlay.",
+      "shortDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, Unicode emoji rendering, low latency mode (fixed 1.50x), 20-second latency recovery, First Message and deleted-message marks, channel points and chat overlay.",
       "category": "multimedia",
       "pool": "main",
       "manifestUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.betterfrz.v3.manifest.json",
       "manifest": {
         "id": "twitch.betterfrz.v3",
-        "version": "1.12.7",
+        "version": "1.12.8",
         "type": "web",
         "title": "BetterTwitch",
-        "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, Unicode emoji rendering, adaptive low latency (1.20x–1.50x), 20-second latency recovery, First Message and deleted-message marks, channel points and chat overlay.",
+        "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, Unicode emoji rendering, low latency mode (fixed 1.50x), 20-second latency recovery, First Message and deleted-message marks, channel points and chat overlay.",
         "iconUri": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/icon.png",
         "sourceUrl": "https://github.com/frz13/twitch-webos-mod",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.betterfrz.v3_1.12.7_all.ipk",
+        "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.betterfrz.v3_1.12.8_all.ipk",
         "ipkHash": {
-          "sha256": "f36fc65a866051088d7bbafb7a65c533c09805b133f67a617113e99a67809c7d"
+          "sha256": "a389247ab9e22265e7881ef8e615ec985aa3b7016309bfd408afb4913f4ed185"
         },
-        "ipkSize": 126412
+        "ipkSize": 127448
       }
     }
   ]
