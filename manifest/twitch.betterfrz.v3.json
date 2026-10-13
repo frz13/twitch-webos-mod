@@ -9,7 +9,7 @@
   "rootRequired": false,
   "ipkUrl": "https://github.com/frz13/twitch-webos-mod/releases/download/v1.6.6/twitch.betterfrz.v3_1.12.8_all.ipk",
   "ipkHash": {
-    "sha256": "a389247ab9e22265e7881ef8e615ec985aa3b7016309bfd408afb4913f4ed185"
+    "sha256": "ac9334b7e7267e0f26e76fe06163cf289390b924d1a78047c9eb76fca65b54de"
   },
-  "ipkSize": 127448
+  "ipkSize": 125740
 }
