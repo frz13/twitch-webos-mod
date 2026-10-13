@@ -19,7 +19,7 @@
         "version": "1.12.8",
         "type": "web",
         "title": "BetterTwitch",
-        "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, Unicode emoji rendering, low latency mode (fixed 1.50x), 20-second latency recovery, First Message and deleted-message marks, channel points and chat overlay.",
+        "appDescription": "BetterTwitch: Twitch for webOS with ad blocking, up to 1440p, Audio only, 7TV/BTTV/FFZ emotes, First Message and deleted-message marks, channel points and chat overlay.",
         "iconUri": "https://raw.githubusercontent.com/frz13/twitch-webos-mod/main/icon.png",
         "sourceUrl": "https://github.com/frz13/twitch-webos-mod",
         "rootRequired": false,
